@@ -6,3 +6,11 @@
 width: 1170px;
 margin: 0 auto;
 }
+
+.maintext{
+    color: red;
+}
+
+p{
+    font-family: fantasy;
+}
